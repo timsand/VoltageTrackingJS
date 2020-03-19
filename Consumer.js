@@ -105,4 +105,8 @@ const FileOperations = {
   }
 };
 
-Consumer.connect(connectionString, Consumer.queue);
+if (!process.env.testing) {
+  Consumer.connect(connectionString, Consumer.queue);
+}
+
+module.exports = { Consumer, PVOperations, FileOperations };

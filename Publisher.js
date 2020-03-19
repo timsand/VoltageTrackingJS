@@ -75,3 +75,6 @@ if (!process.env.testing) {
       console.log(err);
     })
 }
+
+
+module.exports = { Publisher, Wattage };

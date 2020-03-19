@@ -78,3 +78,15 @@ Broker: 25.72761245654173 watts, PV: 11.195927902752803 watts, Broker/PV in kW: 
 Broker: 27.641562706017424 watts, PV: 13.22262266347581 watts, Broker/PV in kW: 0.04kW, timestamp: 1584656639281 
 Broker: 28.129683362797874 watts, PV: 9.228056226252107 watts, Broker/PV in kW: 0.04kW, timestamp: 1584656642285 
 Broker: 28.995926401501 watts, PV: 14.093087718566743 watts, Broker/PV in kW: 0.04kW, timestamp: 1584656645288 
+Broker: 2.335025523972963 watts, PV: 10.957059635422874 watts, Broker/PV in kW: 0.01kW, timestamp: 1584657113585 
+Broker: 3.9976996062696823 watts, PV: 16.19203144069192 watts, Broker/PV in kW: 0.02kW, timestamp: 1584657116583 
+Broker: 5.346769159343918 watts, PV: 8.417065523069645 watts, Broker/PV in kW: 0.01kW, timestamp: 1584657119579 
+Broker: 6.446889693228471 watts, PV: 15.590198966188282 watts, Broker/PV in kW: 0.02kW, timestamp: 1584657122579 
+Broker: 7.441709661383809 watts, PV: 4.180575848522996 watts, Broker/PV in kW: 0.01kW, timestamp: 1584657125587 
+Broker: 7.879995678658432 watts, PV: 8.930021526849142 watts, Broker/PV in kW: 0.02kW, timestamp: 1584657128587 
+Broker: 9.756677892605309 watts, PV: 16.745950147380725 watts, Broker/PV in kW: 0.03kW, timestamp: 1584657131587 
+Broker: 10.733769612234292 watts, PV: 14.734182586414327 watts, Broker/PV in kW: 0.03kW, timestamp: 1584657134591 
+Broker: 2.4163407609825676 watts, PV: 4.09033315392052 watts, Broker/PV in kW: 0.01kW, timestamp: 1584657245865 
+Broker: 3.818273524279788 watts, PV: 14.59720430844321 watts, Broker/PV in kW: 0.02kW, timestamp: 1584657248859 
+Broker: 4.038856744839801 watts, PV: 1.0323969630795826 watts, Broker/PV in kW: 0.01kW, timestamp: 1584657251864 
+Broker: 5.427197367724197 watts, PV: 17.498117419685673 watts, Broker/PV in kW: 0.02kW, timestamp: 1584657254874 
