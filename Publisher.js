@@ -32,6 +32,7 @@ const Publisher = {
   queue: process.env.queue || "hello",
 }
 
+//mocks the meter
 const Wattage = {
   watts: 1,
   getNewWattage: function () {
