@@ -47,7 +47,6 @@ const Wattage = {
       return this.watts;
     } else {
       let rand = Math.random() * 2;
-      console.log(this);
       this.watts -= rand;
       if (this.watts <= 0) {
         this.watts = 1;

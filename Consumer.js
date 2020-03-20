@@ -55,8 +55,8 @@ const PVOperations = {
     output = output / 1000;
     return Number(output.toFixed(2));
   },
-  getOutput: function (broker) {
-    let pv = this.calculatePV();
+  getOutput: function (broker, optionalPV) {
+    let pv = optionalPV === undefined ? this.calculatePV() : optionalPV;
     let totalOutputKW = this.getTotalOutputInKilowatts(broker, pv);
     let output = `Broker: ${broker} watts, PV: ${pv} watts, Broker/PV in kW: ${totalOutputKW}kW, timestamp: ${Date.now()} \n`
     return output;
